@@ -1,0 +1,11 @@
+{
+  "name": "ull-shape-alberto-diego",
+  "version": "1.0.0",
+  "description": "Contiene la clase Shape, de las que heredarán cada figura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alberto-diego",
+  "license": "ISC"
+}
