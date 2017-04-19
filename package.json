@@ -11,5 +11,12 @@
   "dependencies": {
     "mocha": "^2.3.3",
     "should": "^11.2.1"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Alberto",
+      "email": "alu0100825510@ull.edu.es",
+      "url": "https://github.com/alu0100825510"
+    }
+  ]
 }

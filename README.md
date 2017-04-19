@@ -8,3 +8,5 @@ npm install ull-shape-alberto-diego
 var shape = require('ull-shape-alberto-diego');
 var figura = new shape({ width: 100, height: 100 });
 ```
+
+[Enlace a la documentación](index.md)
